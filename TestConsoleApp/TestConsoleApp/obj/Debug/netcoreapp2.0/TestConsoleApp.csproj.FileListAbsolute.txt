@@ -1,0 +1,11 @@
+d:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.deps.json
+d:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.json
+d:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.runtimeconfig.dev.json
+d:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.dll
+d:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\TestConsoleApp.pdb
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csprojResolveAssemblyReference.cache
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfoInputs.cache
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.AssemblyInfo.cs
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.dll
+d:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\TestConsoleApp.pdb

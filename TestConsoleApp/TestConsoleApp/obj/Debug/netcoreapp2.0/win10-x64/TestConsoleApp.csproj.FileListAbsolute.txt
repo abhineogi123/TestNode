@@ -1,0 +1,13 @@
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.exe
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.deps.json
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.runtimeconfig.json
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.runtimeconfig.dev.json
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.dll
+D:\Projects\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.pdb
+D:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.AssemblyInfo.cs
+D:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.dll
+D:\Projects\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.0\win10-x64\TestConsoleApp.pdb
